@@ -56,5 +56,6 @@ public class Room {
     }
 
     public String isAvailable() {
+        return "";
     }
 }
