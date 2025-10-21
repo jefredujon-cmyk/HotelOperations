@@ -1,13 +1,13 @@
 package com.pluralsight;
 
-class Employee {
+public clas employee {
     private int employeeId;
     private String name;
     private String department;
     private double payRate;
     private double hoursWorked;
 
-    public Employee(int employeeId, String name, String department, double payRate, double hoursWorked) {
+    public employee(int employeeId, String name, String department, double payRate, double hoursWorked) {
         this.employeeId = employeeId;
         this.name = name;
         this.department = department;
