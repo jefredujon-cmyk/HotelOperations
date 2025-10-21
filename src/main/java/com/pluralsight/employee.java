@@ -1,6 +1,6 @@
 package com.pluralsight;
 
-public clas employee {
+public class employee {
     private int employeeId;
     private String name;
     private String department;
